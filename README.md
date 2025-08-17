@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis-and-Prediction-Framework
+# Credit Risk Analysis and Prediction Framework
 
 ## Datasets Collected so far ( *need to be explored )
 1. https://www.kaggle.com/c/home-credit-default-risk/
