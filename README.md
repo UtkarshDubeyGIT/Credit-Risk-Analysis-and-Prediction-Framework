@@ -1,5 +1,7 @@
 # Credit Risk Analysis and Prediction Framework
 
+last accomplished task :
+1. Some Data exploration on basic_data.xls with cleaning and preprocessing.
 ## Datasets Collected so far ( *need to be explored )
 1. https://www.kaggle.com/c/home-credit-default-risk/
 2. https://www.kaggle.com/c/GiveMeSomeCredit/
