@@ -1,0 +1,1 @@
+basic_dataset1 - https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
